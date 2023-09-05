@@ -60,7 +60,7 @@ Randomised from [source](https://www.teamblind.com/post/New-Year-Gift---Curated-
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  
-- [Longest Common Subsequence]
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  
 - [House Robber](https://leetcode.com/problems/house-robber/)  
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  
