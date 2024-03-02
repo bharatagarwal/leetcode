@@ -1,1 +1,4 @@
-Attempt a stream solution
+- [ ] Calculate space and time complexity of existing solution
+- [ ] Understand Leetcode Regex solution
+    - [ ] Understand pipes in Regex in Python
+- [ ] Attempt a stream solution
